@@ -1,0 +1,10 @@
+query MyAccountSettings {
+  settings: appSettings @context(provider: "vtex.my-account") {
+    cacheId
+    showGenders
+    showMyCards
+    showMyOrders
+    showMyAddresses
+    useMap
+  }
+}

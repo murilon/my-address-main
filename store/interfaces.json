@@ -1,0 +1,8 @@
+{
+  "address-page": {
+    "component": "AddressPage"
+  },
+  "my-addresses-link-custom": {
+    "component": "MyAddressesLink"
+  }
+}
